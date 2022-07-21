@@ -1,0 +1,7 @@
+1.将以下内容添加至 config.txt 末尾
+	hdmi_force_hotplug=1    
+	config_hdmi_boost=4    
+	hdmi_group=2    
+	hdmi_mode=9      
+	hdmi_ignore_edid=0xa5000080    
+	disable_overscan=1
